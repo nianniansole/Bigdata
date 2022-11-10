@@ -1,6 +1,8 @@
-MIN	-7.9
 
 ## 求最低气温:
+
+MIN	-7.9
+
 
 `[jian@HJ-hadoop ~]$ mkdir my_temperature`
 
